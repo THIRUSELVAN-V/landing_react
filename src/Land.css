@@ -1,0 +1,137 @@
+.navi{
+    list-style: none;
+    display: flex;
+    color: white;
+    padding-top: -10%; 
+}
+.logo{
+    padding-left: 25px;
+    padding-right: 350px;
+    font-size: 30px;
+    font-weight: 300;   
+    
+    
+}
+.nav{
+
+    font-weight: 500;
+    padding-right: 50px;
+}
+.nav:hover{
+    color: rgb(28, 28, 199);
+}
+.travel{
+    
+    font-size: 75px;
+    padding-top: 60px;
+    color: white;
+    
+}
+.para{
+    font-family: 'Times New Roman';
+    text-align: left;
+    padding-right: 800px;
+    padding-left: 50px;
+    font-weight: bold;
+    font-size: 23px;
+
+    color: whitesmoke;
+
+}
+.img{
+    filter:blur(2px);
+    position: absolute;
+    top: 0%;
+    z-index: -1;
+    margin-right: auto;
+    margin-left: -630px;
+    width: 100%;
+}
+.but{
+    margin-left: -650px;
+    background-color: skyblue;
+    padding-top: 5px; 
+     
+}
+.but:hover{
+    background-color: blue;
+}
+.stjr{
+    text-align: center;
+    font-size: 30px;
+    color: skyblue;
+}
+.mspt
+{
+    text-align: center;
+    font-size: 22px;
+    margin-bottom: 50px;
+    color: skyblue;
+}
+.line
+{
+    display: flex;
+    justify-content: space-evenly;
+    height: 235px;
+}
+.t1{
+    display: flex;
+    justify-content: space-around;
+    margin-bottom: 25px;
+    
+}
+.line2
+{
+    display: flex;
+    justify-content: space-evenly;
+    height: 255px;
+}
+.t2{
+    display: flex;
+    justify-content: space-around;
+    margin-bottom: 25px;
+    
+}
+.wc{
+    text-align: center;
+    font-weight: bold;
+    color: skyblue;
+}
+.pt{
+    display: flex;
+    width: 550px;
+    height: 250px;
+    margin-right: 50px;
+    margin-left: 0px;
+    padding-bottom: 40px;
+    
+}
+.p1{
+    font-family: 'Times New Roman';
+    text-align: left;
+    padding-left: 100px;
+    padding-right: 0px;
+    font-weight: bold;
+    font-size: 40px;
+}
+.pa{
+    font-size: 15px;
+    text-align: center;
+    margin-top: 0%;
+}
+.ig{
+    height: 300px;
+    padding-right: 40px;
+    padding-left: 50px;
+    margin-bottom: 1000px;
+}
+.ig2{
+    padding-left: 180px;
+}
+
+.foot{
+    text-align: center;
+    background-color: rgb(37, 35, 35);
+    color: white;
+    height: 160px;
+}
