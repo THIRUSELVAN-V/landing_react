@@ -1,0 +1,25 @@
+{
+  "files": {
+    "main.css": "/landing_react/static/css/main.6f3eec14.css",
+    "main.js": "/landing_react/static/js/main.7dafb7de.js",
+    "static/js/453.7d333ba9.chunk.js": "/landing_react/static/js/453.7d333ba9.chunk.js",
+    "static/media/bg-1.png": "/landing_react/static/media/bg-1.436935b3b550a62b9414.png",
+    "static/media/pic1.png": "/landing_react/static/media/pic1.179acad0a85e01245871.png",
+    "static/media/madurai.jpeg": "/landing_react/static/media/madurai.f1f4204f4fff3e1ef4b8.jpeg",
+    "static/media/kdaikanal.jpeg": "/landing_react/static/media/kdaikanal.cbb9ef40adad21ac0b86.jpeg",
+    "static/media/ooty.jpeg": "/landing_react/static/media/ooty.698338d36a6554d2fe44.jpeg",
+    "static/media/Mahabalipuram.jpeg": "/landing_react/static/media/Mahabalipuram.eedf4921f14d954b086a.jpeg",
+    "static/media/courtallam.jpg": "/landing_react/static/media/courtallam.0cbad5f0da7113a39a4e.jpg",
+    "static/media/kanyakumari.jpeg": "/landing_react/static/media/kanyakumari.b503c8de82802b902168.jpeg",
+    "static/media/beach2.avif": "/landing_react/static/media/beach2.a0a8c54a6040335ec20e.avif",
+    "static/media/logo.svg": "/landing_react/static/media/logo.6ce24c58023cc2f8fd88fe9d219db6c6.svg",
+    "index.html": "/landing_react/index.html",
+    "main.6f3eec14.css.map": "/landing_react/static/css/main.6f3eec14.css.map",
+    "main.7dafb7de.js.map": "/landing_react/static/js/main.7dafb7de.js.map",
+    "453.7d333ba9.chunk.js.map": "/landing_react/static/js/453.7d333ba9.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.6f3eec14.css",
+    "static/js/main.7dafb7de.js"
+  ]
+}
